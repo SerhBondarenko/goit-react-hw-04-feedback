@@ -1,4 +1,7 @@
 body {
+     background: -webkit-linear-gradient(left, #4e4e52 20px, transparent 1%) center, -webkit-linear-gradient(#4e4e52 20px, transparent 1%) center, #635f5f;
+  background: linear-gradient(90deg, #4e4e52 20px, transparent 1%) center, linear-gradient(#4e4e52 20px, transparent 1%) center, #635f5f;
+  background-size: 22px 22px;
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',

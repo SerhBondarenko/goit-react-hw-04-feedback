@@ -1,0 +1,42 @@
+button {
+    background-color: rgb(184, 218, 176);
+    width: 100px;
+    height: 40px;
+    margin-right: 10px;
+    margin-left: 10px;
+    border-radius: 3px;
+    cursor: pointer;
+    font-size: 18px;
+}
+li {
+margin-bottom: 5px;
+background-color: rgb(184, 218, 176);
+height: auto;
+width: 200px;
+padding: 5px;
+border: 1px solid black;
+border-radius: 3px;
+font-size: 18px;
+}
+
+p {
+     margin-left: 30px;
+     font-size: 18px;
+}
+section {
+    border: 1px solid rgb(14, 47, 53);
+    margin-left: 30px;
+    margin-top: 30px;
+    width: 500px;
+    background: #bdc3c7;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #2c3e50, #bdc3c7);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #2c3e50, #bdc3c7); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    border-radius: 10px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+h2 {
+    margin-left: 25px;
+    font-size: 18px;
+}
